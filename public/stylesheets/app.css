@@ -1,0 +1,33 @@
+i.icon{
+  font-size: 2em;
+}
+
+.container.main{
+  margin-top: 7.0em;
+}
+
+#delete{
+  display:inline;
+}
+
+i.icon.chevron{
+  font-size: 1em;
+}
+
+body {
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+div.ui.huge.header{
+  text-shadow: 2px 2px #f0f0f0;
+  font-family:'Acme', cursive;
+  font-size: 3.0em;
+}
+
+div.ui.huge.header.show{
+  text-shadow: 2px 2px #f0f0f0;
+  font-family:Acme;
+  font-size: 2.0em;
+}
